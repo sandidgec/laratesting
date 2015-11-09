@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html>
-	<head lang="en">
-		<meta charset="UTF-8">
-		<title></title>
-	</head>
+<?php
+$PAGE_TITLE = "Cultivating";
+?>
+<?php require_once("lib/header.php"); ?>
 
-	<body>
-	</body>
-
-</html>
+<body>
+<h2>Cultivating Coders</h2>
+</body>
